@@ -54,7 +54,7 @@ and after that
 python3 main.py infra_score.shp data-samples/points/points.shp data-samples/t0_points/t0_points.shp final_score.shp
 ```
 You should now be able to open the generated Shape File in any compatible editor.(e. g [QGis](https://www.qgis.org/de/site/index.html))
-Alternatively you can see the result for Heidelberg [here](http://wirvsvirus.lpk-server.de/).
+Alternatively you can see the result for Heidelberg [here](https://youtu.be/FOzN9v-KzBQ).
 
 
 ## Built With
